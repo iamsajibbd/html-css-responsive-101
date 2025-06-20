@@ -349,7 +349,12 @@ footer{
 
 footer{
     margin: 0 auto;
-    width: 360px;
+    width: 450px;
+    
+}
+
+.footer-contact{
+    font-size: 10px;
 }
 }
 
